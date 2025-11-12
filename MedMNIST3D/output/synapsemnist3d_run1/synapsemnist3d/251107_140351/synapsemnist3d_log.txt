@@ -1,0 +1,5 @@
+synapsemnist3d
+train  auc: 1.00000  acc: 1.00000
+val  auc: 0.79578  acc: 0.80226
+test  auc: 0.75366  acc: 0.75568
+

@@ -1,0 +1,5 @@
+fracturemnist3d
+train  auc: 0.79926  acc: 0.62220
+val  auc: 0.72875  acc: 0.48544
+test  auc: 0.76388  acc: 0.55000
+
